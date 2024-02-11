@@ -1,0 +1,29 @@
+section{
+  div{
+    color: #fff;
+    width: 300px;
+    height: 100px;
+    background: #bda9a9;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px 0; 
+    margin-right: 15px;
+    transition: .3s;
+    .plus{
+      width: 20px;
+      float: right;
+      cursor: pointer;
+
+    }
+    h3{
+      font-size: 16px;
+      letter-spacing: 1px;
+      color: #2f323e;
+    }
+    p{
+      font-size: 14px;
+      color: #fff;
+      width: 100px;
+    }
+  }
+}
