@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-todo-platform/static/css/main.81407a83.css",
+    "main.js": "/react-todo-platform/static/js/main.5ea075ec.js",
+    "static/media/sunny1.png": "/react-todo-platform/static/media/sunny1.81eeafe8a43be5ff5403.png",
+    "static/media/night1.png": "/react-todo-platform/static/media/night1.74788f620c5806701a81.png",
+    "index.html": "/react-todo-platform/index.html",
+    "main.81407a83.css.map": "/react-todo-platform/static/css/main.81407a83.css.map",
+    "main.5ea075ec.js.map": "/react-todo-platform/static/js/main.5ea075ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81407a83.css",
+    "static/js/main.5ea075ec.js"
+  ]
+}
